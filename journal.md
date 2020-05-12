@@ -13,6 +13,9 @@ These are all my cool findings!
 
 Here is where I show all my beautiful figures.
 
+### Conclusions 
+
+These are the conclusions of the paper. 
 
 ### References
 
